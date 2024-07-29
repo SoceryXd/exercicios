@@ -1,0 +1,31 @@
+body {
+    background-color: darkcyan;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: yellow;
+}
+
+ul{
+    color: white;
+}
+
+h3 {
+    border: 5px solid black;
+}
+
+h3 {
+    background-color: yellow;
+}
+
+#cor2 {
+    color: red;
+}
+
+.cor1 {
+    color: red;
+}

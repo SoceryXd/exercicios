@@ -1,0 +1,28 @@
+.texto {
+    font-size: 30px;
+    color: red;
+    border: 5px solid black;
+}
+
+p {
+    background-color: brown;
+    color: aqua;
+}
+
+ul {
+    background-color: blue;
+    color: black;
+}
+/*ID*/
+#frase {
+    font-size: 30px;
+    color: blueviolet;
+    border: 5px solid black;
+}
+
+/* seletor de herança */
+footer .rodape p {
+    font-size: 10px;
+    background-color: green;
+    color: white;
+}

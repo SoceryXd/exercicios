@@ -1,0 +1,31 @@
+h1 {
+    color: rgb(228, 0, 0);
+    font-size: 50px;
+}
+
+h4 {
+    background-color: rgb(255, 131, 131);
+}
+
+body{
+    background-color: rgb(118, 255, 209);
+}
+
+ul {
+    border-style: outset;
+    border-color: black;
+    border-width: 4px;
+}
+.deuses {
+    background-color: rgb(255, 255, 255);
+}
+
+#zeus-Deus{
+    background-color: aqua;
+}
+
+
+/*seletor de herança*/
+div p {
+    background-color: rgb(255, 131, 131);
+}

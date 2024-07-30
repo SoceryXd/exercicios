@@ -1,0 +1,11 @@
+.light-mode{
+    background-color: antiquewhite;
+    color: #202020;
+}
+
+.dark-mode{
+    background-color: #202020;
+    color: antiquewhite;
+}
+
+
